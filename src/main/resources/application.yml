@@ -1,1 +1,9 @@
+server:
+    port: 8080
 
+spring:
+    main:
+        allow-bean-definition-overriding: true
+app:
+    api:
+        key: OUf9npQWLB3irt5NrD0RS1vtSPK2nDwN2eD7NMVw
